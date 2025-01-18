@@ -1,2 +1,2 @@
 # c-programming-basic-part
-## hello,print,variable,datatypes(int,float).
+``` hello,print,variable,datatypes(int,float) ```
